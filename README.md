@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to OrgDS.org
 
-You can use the [editor on GitHub](https://github.com/orgds/orgds-api/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+OrgDS.org is a web-based directory for managing groups of contacts and communicating to them. With our powerful and intuitive application with Bulk SMS and Automated Birthday SMS features, you can stop thinking about when to wish the next birthday celebrant a happy birthday, we can do that for you while you face other valuable tasks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have a rich feature set that lets you gather new contacts, organize and schedule SMS communication. We have partnered with mobile carriers to ensure that your text messages will be delivered in real-time speeds.
 
-### Markdown
+### Bulk/Mass Text Messaging Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can send instant bulk Text Messages to a large number of recipients all at once, within seconds. With just a simple click of the button, you can quickly broadcast your notifications, advertisement, announcements, greetings and wishes to entire contact lists sending Text Messages effortlessly. Text messaging has proved to be the easiest, fastest and most effective way to reach all your contacts and build better relationships that are more meaningful, personal, and productive, with an amazing 95-98% read rate within 5 minutes of receiving a Text Message. And since people never leave their mobile phones home, our SMS Marketing Campaign offers unparalleled opportunities to reach your contacts instantly.
 
-```markdown
-Syntax highlighted code block
+### Contact Directory
 
-# Header 1
-## Header 2
-### Header 3
+OrgDS provides you with necessary tools and features to manage, organize, access your contact directory and communicate with people. You can group friends, families, members of your organization, clients and employees for effective and efficient SMS communication and advertising campaigns at affordable rate.
 
-- Bulleted
-- List
+### Automated SMS Engagement
 
-1. Numbered
-2. List
+Our automated SMS and scheduling system, you can stop thinking about when to wish a birthday celebrant a happy birthday or when to send a message! Our automated SMS engagement tools makes reaching everyone easy and convenient.
 
-**Bold** and _Italic_ and `Code` text
+### Developers' API Gateway
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orgds/orgds-api/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With our powerful SMS communication application, developers can take advantage of our simple and easy-to-integrate SMS connectivity for system, mobile and web applications for personalized SMS communication from websites and applications. With our API Gateway, integration is fast and reliable, and communication is efficient.
