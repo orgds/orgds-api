@@ -4,6 +4,11 @@ OrgDS.org is a web-based directory for managing groups of contacts and communica
 
 We have a rich feature set that lets you gather new contacts, organize and schedule SMS communication. We have partnered with mobile carriers to ensure that your text messages will be delivered in real-time speeds.
 
+OrgDS.org SMS API allows you to connect to OrgDS.org main or API-X account from a website or app to send SMS, check account balance and do some other things.
+
+You can create an account at orgds.org/register or login at orgds.org/login
+After you're logged in to your account, API-X account can be created at orgds.org/createapix
+
 ### Bulk/Mass Text Messaging Services
 
 You can send instant bulk Text Messages to a large number of recipients all at once, within seconds. With just a simple click of the button, you can quickly broadcast your notifications, advertisement, announcements, greetings and wishes to entire contact lists sending Text Messages effortlessly. Text messaging has proved to be the easiest, fastest and most effective way to reach all your contacts and build better relationships that are more meaningful, personal, and productive, with an amazing 95-98% read rate within 5 minutes of receiving a Text Message. And since people never leave their mobile phones home, our SMS Marketing Campaign offers unparalleled opportunities to reach your contacts instantly.
