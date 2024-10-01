@@ -37,4 +37,4 @@ form input[type="submit"], button[type="submit"]
 }
 form input[type="submit"]:active, button[type="submit"]:active {
 	font-weight:bold;
-}
+} 
